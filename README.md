@@ -19,3 +19,12 @@
 
 
 6LfW0okpAAAAAF-l2v78VL24KjUXnQihUpAiCY83
+
+
+
+
+ <script>
+   function onSubmit(token) {
+     document.getElementById("demo-form").submit();
+   }
+ </script>
