@@ -21,7 +21,10 @@
 6LfW0okpAAAAAF-l2v78VL24KjUXnQihUpAiCY83
 
 
-
+<button class="g-recaptcha" 
+        data-sitekey="reCAPTCHA_site_key" 
+        data-callback='onSubmit' 
+        data-action='submit'>Submit</button>
 
  <script>
    function onSubmit(token) {
