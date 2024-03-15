@@ -1,0 +1,22 @@
+<form method="GET" action="javascript:alert('Are you a robot?');" id="my_form">
+  <!-- hint: o id desse elemento pode ser dinâmico, para evitar ataques do tipo CSRF -->
+  <div id="captcha_place" ></div>
+  <button id="topSubmit" type="submit">OK</button>
+</form>
+<script type="text/javascript">
+	  grecaptcha.ready(function() {
+		console.info('Captcha Ready');
+		  grecaptcha.execute('<<: RECAPTCHA PUBLIC KEY :>>', {action: 'votepage'}).then(function(token) {
+			console.info('Captcha Token Aquired');
+      //Libera o método do post
+			document.getElementById('my_form').method = 'POST';
+			document.getElementById('my_form').action = 'form.php';
+			
+			var input = document.createElement("input");
+			input.setAttribute("type", "hidden");
+			input.setAttribute("name", "g-recaptcha-response");
+			input.setAttribute("value", token);
+			document.getElementById("captcha_place").appendChild(input);
+		  });
+	  });
+</script>
