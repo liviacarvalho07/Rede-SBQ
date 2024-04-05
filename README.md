@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" src="https://github.com/liviacarvalho07/Rede-SBQ/blob/main/logo.png?raw=true" width="300px" min-width="300px" max-width="300px" align="right" alt="Img" >
+  <img height="200" src="https://github.com/liviacarvalho07/Rede-SBQ/blob/main/logo.png?raw=true" />
 </div>
 
 ###
@@ -26,3 +26,4 @@
 
 ## Contribuidores 
 
+width="300px" min-width="300px" max-width="300px" align="right" alt="Img"
