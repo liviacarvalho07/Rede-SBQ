@@ -70,9 +70,7 @@
       <!-- Rodapé -->
     
     </div>
-    <footer>
-      SBQ
-    </footer>
+    <?php include "../includes_padroes/footer.php"?>
     
     
         
