@@ -4,7 +4,7 @@
 </div>
 
 ###
-<h2 align="center">Sistema Rede SBQ</h2>
+<h1 align="center">Sistema Rede SBQ</h1>
 
 </br>
 
