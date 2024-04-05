@@ -125,7 +125,8 @@
               </form>
           </div>
       </div>
-      <!-- Rodapé -->       
+      <!-- Rodapé -->   
+      <?php include "../includes_padroes/footer.php"?>
     
 
 </body>
