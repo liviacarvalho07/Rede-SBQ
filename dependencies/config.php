@@ -1,11 +1,16 @@
 <?php
-$servername = "localhost";
-$database = "system_sbq_database";
-$username =  "root";#eeepmm_sbqsystem
-$password = "";#ee3pm41@3!MM
+// login.php
 
-$conexao = mysqli_connect($servername, $username, $password, $database);
-if(!$conexao){
-die("Connection failed: " . mysqli_connect_error());
-};
+// Database connection
+$host = 'localhost';
+$dbname = 'your_database_name';
+$user = 'your_username';
+$password = 'your_password';
+
+try {
+    $conn = new PDO("mysql:host=$host;dbname=$dbname", $user, $password);
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch (PDOException $e) {
+    echo "Connection failed: " . $e->getMessage();
+}
 ?>
