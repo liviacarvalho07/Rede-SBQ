@@ -21,6 +21,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Emerson-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Kalel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) <br>
 
+## Linguagens e ferramentas utilizadas
+
+
+
 ## Referência
  
 ## Suporte
@@ -31,8 +35,8 @@
 
 ## Melhorias
 
-## Linguagens e ferramentas utilizadas 
+ 
 
 
 
-width="300px" min-width="300px" max-width="300px" align="right" alt="Img"
+
