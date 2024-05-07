@@ -8,7 +8,7 @@
 
 </br>
 
-<p> Este é o Sistema do laboratório da Sociedade Brasileira de Química. Seu desenvolvimento consiste na elaboração de uma interface de cadastro para equipamentos de laboratório de universidades e centros de pesquisa ao redor do país, onde os pesquisadores poderão ter acesso de maneira prática e encontrar a localização de determinados equipamentos, além ter conhecimento de quem é responsável por ele. Visto isso, este sistema doi desenvolvido visando facilitar o acesso a esse tipo de informação quando for necessária, usando de uma interface agradável e plenamente intuitiva. A seguir, detalham-se as etapas de sua criação. </p>
+<p> Este é o Sistema do laboratório da Sociedade Brasileira de Química. Seu desenvolvimento consiste na elaboração de uma interface de cadastro para equipamentos de laboratório de universidades e centros de pesquisa ao redor do país, onde os pesquisadores poderão ter acesso de maneira prática e encontrar a localização de determinados equipamentos, além ter conhecimento de quem é responsável por ele. Visto isso, o seguinte documento servirá para descrever o funcionamento deste sistema que foi desenvolvido visando facilitar o acesso a esse tipo de informação quando for necessária, usando de uma interface agradável e plenamente intuitiva. A seguir, detalham-se as etapas de sua criação. </p>
 
 </br>
 <h3 align="left">👩‍💻  Desenvolvedores </h3>
