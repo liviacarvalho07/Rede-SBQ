@@ -30,17 +30,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="40" alt="MySQL"/>
 </div>
 
-## Referência
+<h3 align="left"> Referência </h3>
+
 <p> Ao criar este sistema, tivemos por inspiração tanto o conteúdo quanto a aparência do site da Sociedade Brasileira de Química, visto que o Sistema SBQ foi desenvolvido para oferecer uma extensão que mantém sua qualidade e adiciona novas funcionalidades. </p>
 
 https://www.sbq.org.br/
  
-## Suporte
+<h3 align="left"> Suporte </h3>
 <p> Nossa equipe está disponível para ajudar através de um suporte dedicado via e-mail, respondendo prontamente às consultas e fornecendo assistência personalizada ao usuário. 
   <br>
  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheus.soares7648@gmail.com" alt="Gmail"/> </p>
+
+
 
 
  
