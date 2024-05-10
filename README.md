@@ -36,12 +36,8 @@
 https://www.sbq.org.br/
  
 ## Suporte
-
-## Rodando localmente
-
-## 🛠 Backup SQL
-
-## Melhorias
+<p> </p>
+matheus.soares7648@gmail.com
 
  
 
