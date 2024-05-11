@@ -42,6 +42,7 @@ https://www.sbq.org.br/
 <h3 align="left"> Suporte </h3>
 <p> Nossa equipe está disponível para ajudar através de um suporte dedicado via e-mail, respondendo prontamente às consultas e fornecendo assistência personalizada ao usuário. 
   <br>
+<img src="https://img.shields.io/badge/matheus.soares7648@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 
