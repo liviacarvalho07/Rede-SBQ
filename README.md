@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/liviacarvalho07/Rede-SBQ/blob/main/logo.png?raw=true" />
+  <img height="200" src=Imagens/logo.png />
 </div>
 
 ###
