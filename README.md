@@ -39,8 +39,8 @@
 
 <p> Ao criar este sistema, tivemos por inspiração tanto o conteúdo quanto a aparência do site da Sociedade Brasileira de Química, visto que o Sistema SBQ foi desenvolvido para oferecer uma extensão que mantém sua qualidade e adiciona novas funcionalidades. </p>
 
-https://www.sbq.org.br/
- 
+🌐(https://www.sbq.org.br/)  
+
 <h3 align="left"> Suporte </h3>
 <p> Nossa equipe está disponível para ajudar através de um suporte dedicado via e-mail, respondendo prontamente às consultas e fornecendo assistência personalizada ao usuário.</p>
 <br>
