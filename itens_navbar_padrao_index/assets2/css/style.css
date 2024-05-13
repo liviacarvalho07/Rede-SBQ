@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+/*---------Começo da estilização do NavBar---------*/
+body{
+    background-color: #f7f7f7;
+}
+.nav-bar {
+    display: flex;
+    padding: 0rem 2rem;
+}
+
+.logo {
+    display: flex;
+    margin-right: 2rem;
+    align-items: center;
+}
+.rede{
+    color: rgb(16, 74, 160);
+    font-size: 2rem;
+    
+}
+
+/* Parte de identificação do usuario */
+.usual{
+    display: flex;
+    padding: 0.3rem 1rem;
+    background-color: #e6e2e2;
+    border-radius: 100px;
+    margin-right: 90px;
+}
+.icon{
+    width: 2.6rem;
+    display: flex;
+    margin: 0.6rem;
+}
+.usuario{
+    color: #000000;
+    font-size: 1.3rem;
+    border-radius: 10%;
+
+}
+
+/* Opções do NavBar */
+.nav-options {
+    display: flex;
+    align-items: center;
+}
+
+.nav-options ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding-left: 15px;
+    text-decoration: none;
+    font-size: 1.50rem;
+    color: #000000;
+    font-weight: 400;
+}
+.nav-item a{
+    padding: 60px;
+    display: inline-block;
+    transition: background 0.6s;
+}
+
+.nav-item a:hover{
+    background-color: #b8b4b4;
+}
+
+/* Botão Deslogar */
+.deslogar-button button {
+    background-color: #ffff;
+    border: 1px solid rgb(21, 220, 204);
+    padding: 0.8rem 0rem;
+    margin-top: 3rem;
+    border-radius: 5px;
+    margin-left: 3rem;
+
+}
+
+.deslogar-button button a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 500;
+    font-size: 1.1rem;
+    padding: 0.8rem 0.8rem;
+}
+.deslogar-button button a:active{
+    background-color: aquamarine;
+    color: #ffffff;
+    
+}
+/* slide */
+.container-slider {
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .container-images {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+  }
+  
+  .slider {
+    opacity: 0;
+    transition: opacity .2s;
+    position: absolute;
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .on {
+    opacity: 1;
+  }
+  
+  #prev-button, #next-button {
+    width: 30px;
+    height: 30px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  #prev-button img, #next-button img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  #prev-button {
+    transform: rotate(180deg);
+  }
+.barra{
+    display: flex;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+.quadrado{
+    display: flex;
+    align-items: center;
+    width: 1000px;
+    height: 40px;
+    background-color: #86a2a9b7;
+}
+.triangulo {
+    width: 100px;
+    height: 80px;
+    background-color: #86a2a9b7;
+    clip-path: polygon(0% 0%, 80% 50%, 0% 50%);
+}
+
+.diretorio{
+    color: white;
+    margin-left: 2rem;
+    font-size: x-large;
+}
+  
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: #00000039;
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+}
+.inform{
+    display: flex;
+    padding: 50px;
+
+}
+.casa{
+    padding-right: 10px;
+    width: 60px;
+    height: 50px;
+}
+h2,h4{
+    padding-bottom: 2rem;
+}
+.titulo h2 {
+    display: flex;
+    color: #006AB2;
+}
+.titulo1{
+    flex-direction: column;
+    margin-left: 50px;
+}
+.titulo1 h2{
+    color: #006AB2;
+}
+.titulo2{
+    margin-left: 50px;
+}
+.titulo2 h2{
+    color: #006AB2;
+}
+
+/* Colunas */
+.col-md-4{
+    width: 33%;
+}
+.col-md-8{
+    width: 66%;
+}
+
+.row{
+    margin-left: 10%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+/* Regulamento */
+#b_regulamento{
+    background-color: #c1d1dd;
+    height: 50px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#regulamento{
+    font-size: large;
+    font-weight: 700;
+    color: #7596ad;
+    line-height: 50px;
+    width: 100%;
+    display: inline-block;
+}
+
+.descricao_regulamento{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.h5{
+    color: #5f5f5f;
+}
+
+.container_regulamento{
+    margin-left: 1rem;
+}
