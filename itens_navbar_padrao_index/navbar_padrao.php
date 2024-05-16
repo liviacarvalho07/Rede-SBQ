@@ -39,11 +39,11 @@
                       Associe-se
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="Index/acessar_pessoal.php">Login Pessoal</a></li>
-                      <li><a class="dropdown-item" href="Index/acessar_funcional.php">Login Funcional</a></li>
+                      <li><a class="dropdown-item" href="../Index/acessar_pessoal.php">Login Pessoal</a></li>
+                      <li><a class="dropdown-item" href="../Index/acessar_funcional.php">Login Funcional</a></li>
                       <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="Index/cadastro_pessoal.php">Cadastro Pessoal</a></li>
-                      <li><a class="dropdown-item" href="Index/cadastro_funcional.php">Cadastro Funcional</a></li>
+                      <li><a class="dropdown-item" href="../Index/cadastro_pessoal.php">Cadastro Pessoal</a></li>
+                      <li><a class="dropdown-item" href="../Index/cadastro_funcional.php">Cadastro Funcional</a></li>
                     </ul>
                 </li>
               </ul>
