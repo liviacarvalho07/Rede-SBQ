@@ -15,9 +15,10 @@ if(isset($_POST['submit'])){
       curl_setopt( $ch, CURLOPT_HEADER, 0);
       curl_setopt( $ch, CURLOPT_RETURNTRANSFER, 1);
       $resposta = curl_exec($ch);
-      print_r($resposta)$resultado = json_decode($resporta);
+      print_r($resposta);
+      $resultado = json_decode($resporta);
       if ($resultado-> success == 1){
-        echo "foi"
+        echo "foi";
         /* Continuacao do codigo */
         require_once "config.php";
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
