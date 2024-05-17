@@ -1,5 +1,6 @@
 <?php
 require 'config.php';
+global $conn;
 
 if (isset($_POST['submit'])) {
     if (!empty($_POST['g-recaptcha-response'])) {
@@ -20,7 +21,6 @@ if (isset($_POST['submit'])) {
         if ($resultado->success == 1) {
             function cadastro_pessoal()
             {
-                global $conn;
 
                 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     $nome_pessoal = $conn->quote($_POST['nome']);
