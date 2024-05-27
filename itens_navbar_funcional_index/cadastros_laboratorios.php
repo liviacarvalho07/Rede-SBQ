@@ -1,26 +1,28 @@
-<?php include "navbar_index_itens.php"?>
-    <div class="barra">
-      <div class="quadrado">
-        <div class="diretorio">
-            <a href="tela_inicial_funcional.php"><img src="../itens_navbar_funcional_index/assets2/img/casa.png" alt="Home"></a>
-            > Cadastrar Laboratórios ou Equipamentos >
-        </div>
-      </div>
-      <div class="triangulo"></div>
+<?php include "navbar_index_itens.php" ?>
+<div class="barra">
+  <div class="quadrado">
+    <div class="diretorio">
+      <a href="tela_inicial_funcional.php"><img src="../itens_navbar_funcional_index/assets2/img/casa.png"
+          alt="Home"></a>
+      > Cadastrar Laboratórios ou Equipamentos >
     </div>
-    <div class="container">
-    <!-- Botões-->
-    <div class="form">
-      <div class="botoes">
-        <a href="cadastros_laboratorios.php"><button class="laboratorio">Cadastrar Laboratório</button></a>
-        <a href="cadastros_equipamentos.php"><button class="equipamento">Cadastrar Equipamento</button></a>
-      </div>
+  </div>
+  <div class="triangulo"></div>
+</div>
+<div class="container">
+  <!-- Botões-->
+  <div class="form">
+    <div class="botoes">
+      <a href="cadastros_laboratorios.php"><button class="laboratorio">Cadastrar Laboratório</button></a>
+      <a href="cadastros_equipamentos.php"><button class="equipamento">Cadastrar Equipamento</button></a>
+    </div>
 
-      <!-- Barra 2 -->
-      <div class="cad">Cadastre o Labortório</div>
-      <div class="linha"></div>
+    <!-- Barra 2 -->
+    <div class="cad">Cadastre o Labortório</div>
+    <div class="linha"></div>
 
-      <!-- LINHA 1 DO FORMULÁRIO -->
+    <!-- LINHA 1 DO FORMULÁRIO -->
+    <form action="../dependencies/laboratorio_cadastro.php" method="POST">
 
       <div class="row">
         <div class="col-sm" id="colunas">
@@ -29,8 +31,7 @@
         </div>
         <div class="col-sm" id="colunas">
           <label for="">Departamento:</label>
-          <input type="text" class="form-control" name="despartamento" />
-        </div>
+          <input type="text" name="departamento" id="departamento" class="form-control" required>        </div>
       </div>
 
       <!-- LINHA 2 DO FORMULÁRIO -->
@@ -50,14 +51,14 @@
       <!-- botão registrar equipamento -->
       <div class="col-sm" id="colunas">
         <div class="row" id="add">
-          <button class="adicionar">Adicionar Laboratório</button>
+          <button type="submit" class="adicionar">Adicionar Laboratório</button>
         </div>
       </div>
-    </div>
-
-    </form>
   </div>
-    <!-- Cadastros -->
 
-    <!-- Footer -->
-    <?php include "../includes_padroes/footer.php"?>
+  </form>
+</div>
+<!-- Cadastros -->
+
+<!-- Footer -->
+<?php include "../includes_padroes/footer.php" ?>
