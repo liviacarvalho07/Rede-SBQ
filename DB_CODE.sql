@@ -47,10 +47,10 @@ nome_labarotorio varchar(244)
 
 );
 
-create table laboratorios{
+create table laboratorios(
 id integer primary key auto_increment,
 nome_labarotorio varchar(255) not null,
 departamento varchar(255) not null,
 nome_coordenador varchar(255) not null,
 universidade varchar(300) not null
-};
+);
