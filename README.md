@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Emerson-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emerson096) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Kalel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalelOliveira) <br>
 
-<h3 align="left"> :🛠️ Linguagens e ferramentas utilizadas </h3>
+<h3 align="left">🛠️ Linguagens e ferramentas utilizadas </h3>
 
 <div align="left">
   <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
