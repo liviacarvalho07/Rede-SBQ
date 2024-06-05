@@ -106,7 +106,7 @@
           <!-- botão registrar equipamento -->
           <div class="col-sm" id="add" id="colunas">
             <div class="adicionar">
-              <button class="adicionar">Adicionar Equipamento</button>
+              <button class="adicionar" type="submit" name="submit">Adicionar Equipamento</button>
             </div>
           </div>
         </div>
