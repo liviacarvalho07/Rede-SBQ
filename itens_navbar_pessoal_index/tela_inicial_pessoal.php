@@ -14,8 +14,10 @@
         <div class="painel">    
             <h1 class="convite">Venha conhecer a Rede SBQ</h1>
             <div class="digitacao">
+                <form method="POST" action="../dependencies/pesquisa_equipamentos.php">
                 <input class="caixa" type="text" placeholder="pesquise por laboratórios, equipamentos...">
-                <li><a href="#"> Pesquisar</a></li>
+                <li><button name="pesquisar" type="submit"href="#"> Pesquisar</button></li>
+                </form>
             </div>
             <ul class="num">
                 <li >Instituições</li>
