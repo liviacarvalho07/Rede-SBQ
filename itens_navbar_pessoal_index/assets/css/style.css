@@ -276,3 +276,50 @@ h2,h4{
 .container_regulamento{
     margin-left: 1rem;
 }
+
+/* CATALOGO */
+
+.catalogo{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quad_catalogo{
+    height: 11rem;
+    width: 80%;
+    display: flex;
+    border: solid 2px black;
+}
+
+.img-equi{
+    height: 100%;
+    width: 25%;
+    background-image: url(../img/decoraçao.jpg);
+}
+
+.infor-equi{
+    width: 75%;
+    height: 100%;
+}
+
+.descr-equi h6{
+    max-width: 80%;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+}
+
+.catalogo h2,h4,h6{
+    padding: 0;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+
+.mais-detalhes{
+    display: flex;
+    justify-content: end;
+    margin: 1rem;
+}
