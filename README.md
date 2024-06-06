@@ -35,14 +35,22 @@
   <img width="12" />
 </div>
 
-<h3 align="left"> Referência </h3>
+<h3 align="left">💡 Referência </h3>
 
 <p> Ao criar este sistema, tivemos por inspiração tanto o conteúdo quanto a aparência do site da Sociedade Brasileira de Química, visto que o Sistema SBQ foi desenvolvido para oferecer uma extensão que mantém sua qualidade e adiciona novas funcionalidades. </p>
 
 🌐(https://www.sbq.org.br/)  
 
-<h3 align="left"> Suporte </h3>
-<p> Nossa equipe está disponível para ajudar através de um suporte dedicado via e-mail, respondendo prontamente às consultas e fornecendo assistência personalizada ao usuário.</p>
+<h3 align="left">🖇️ Acesso ao site</h3>
+
+<h3 align="left">:📋 Manual do Usuário</h3>
+
+<h3 align="left">🎲 Criação do Banco de Dados</h3>
+
+<h3 align="left"> Executando o Projeto em um Servidor Local </h3>
+
+<h3 align="left">🤝 Suporte </h3>
+<p> Está com dúvdas? Tem sugestões? Nossa equipe está disponível para colaborar através de um suporte dedicado via e-mail, respondendo prontamente às consultas e fornecendo assistência personalizada ao usuário.</p>
 
 <img src="https://img.shields.io/badge/matheus.soares7648@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
