@@ -16,7 +16,7 @@
             <div class="digitacao">
                 <form method="POST" action="../dependencies/pesquisa_equipamentos.php">
                 <input class="caixa" type="text" placeholder="pesquise por laboratórios, equipamentos...">
-                <li><button type="submit"href="#"> Pesquisar</button></li>
+                <li><button name="pesquisar" type="submit"href="#"> Pesquisar</button></li>
                 </form>
             </div>
             <ul class="num">
