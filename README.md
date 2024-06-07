@@ -47,7 +47,7 @@
 
 <h3 align="left">🎲 Criação do Banco de Dados</h3>
 
-<h3 align="left"> Executando o Projeto em um Servidor Local </h3>
+<h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
 
 <h3 align="left">🤝 Suporte </h3>
 <p> Está com dúvdas? Tem sugestões? Nossa equipe está disponível para colaborar através de um suporte dedicado via e-mail, respondendo prontamente às consultas e fornecendo assistência personalizada ao usuário.</p>
