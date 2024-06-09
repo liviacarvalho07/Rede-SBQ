@@ -37,7 +37,7 @@
 
 <h3 align="left">💡 Referência </h3>
 
-<p> Ao criar este sistema, tivemos por inspiração tanto o conteúdo quanto a aparência do site da Sociedade Brasileira de Química, visto que o Sistema SBQ foi desenvolvido para oferecer uma extensão que mantém sua qualidade e adiciona novas funcionalidades. </p>
+<p> Ao criar este sistema, tivemos por inspiração tanto o conteúdo quanto a aparência do site da Sociedade Brasileira de Química, visto que o Sistema SBQ foi desenvolvido para oferecer uma extensão que mantém sua qualidade e adiciona novas funcionalidades. Acesse o link abaixo para visitar o site da Sociedade Brasileira de Química e conhecer mais sobre suas iniciativas e recursos. </p>
 
 🌐(https://www.sbq.org.br/)  
 
