@@ -69,6 +69,16 @@ O modelo relacional representa o modelo lógico em tabelas, colunas e chaves est
 <p>Após a definição dos modelos lógico e relacional para o banco de dados, iniciou-se o desenvolvimento no SQL(Structured Query Language), uma linguagem padrão usada para gerenciar bancos de dados relacionais. 
   Utilizamos o SQL para criar as tabelas, definir os relacionamentos entre elas e realizar consultas para acessar e manipular os dados armazenados. Abaixo, encontra-se um trecho de código SQL que representa parte do nosso esquema de banco de dados, mais especificamente sobre cadastro de laboratórios.</p>
   
+```
+--Criação da tabela "laboratórios"
+create table laboratorios(
+id integer primary key auto_increment,
+nome_labarotorio varchar(255) not null,
+departamento varchar(255) not null,
+nome_coordenador varchar(255) not null,
+universidade varchar(300) not null
+);
+```
 <h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
 <p></p>
 <h3 align="left">🤝 Suporte </h3>
