@@ -8,8 +8,8 @@
 </br>
 
 <p> Este é o Sistema do laboratório da Sociedade Brasileira de Química. Seu desenvolvimento consiste na elaboração de uma interface de cadastro para equipamentos de laboratório de universidades e centros de pesquisa ao redor do país, onde os pesquisadores poderão ter acesso de maneira prática e encontrar a localização de determinados equipamentos, além ter conhecimento de quem é responsável por ele. Visto isso, o seguinte documento servirá para descrever o funcionamento deste sistema que foi desenvolvido visando facilitar o acesso a esse tipo de informação quando for necessária, usando de uma interface agradável e plenamente intuitiva. A seguir, detalham-se as etapas de sua criação. </p>
-
 </br>
+
 <h3 align="left">👩‍💻  Desenvolvedores </h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Livia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liviacarvalho07) <br>
@@ -46,7 +46,17 @@
 <h3 align="left">:📋 Manual do Usuário</h3>
 
 <h3 align="left">🎲 Criação do Banco de Dados</h3>
+   Ao iniciar o processo de desenvolvimento do banco de dados para nosso site, foi necessária a criação do modelo lógico de relacional. Esses modelos servem como esquemas conceituais que representam a estrutura e as relações entre os diferentes dados que serão armazenados.
 
+<h align="left">Modelo Lógico</h4>
+ Este descreve a estrutura dos dados de forma independente no sistema de gerenciamento de banco de dados. Ele apresenta entidades, atributos e relacionamentos entre os dados de uma forma compreensível para os desenvolvedores e stakeholders do projeto. 
+<br>
+<div align="center">
+  <img height="200" src=Modelo Lógico_SQL_ATUALIZADO.png />
+</div>
+
+Modelos Relacionais
+Os modelos relacionais são uma representação dos modelos lógicos em termos de tabelas, colunas e chaves estrangeiras. Eles definem como os dados serão organizados e inter-relacionados dentro do banco de dados relacional. Esta etapa é essencial para garantir a integridade e consistência dos dados ao longo do tempo.
 <h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
 
 <h3 align="left">🤝 Suporte </h3>
