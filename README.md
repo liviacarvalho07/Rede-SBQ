@@ -52,7 +52,7 @@
  Este descreve a estrutura dos dados de forma independente no sistema de gerenciamento de banco de dados. Ele apresenta entidades, atributos e relacionamentos entre os dados de uma forma compreensível para os desenvolvedores e stakeholders do projeto. 
 <br>
 <div align="center">
-  <img height="200" src=Modelo Lógico_SQL_ATUALIZADO.png />
+  <img height="200" src=\Users\User\Downloads\Modelo Lógico_SQL_ATUALIZADO.png />
 </div>
 
 Modelos Relacionais
