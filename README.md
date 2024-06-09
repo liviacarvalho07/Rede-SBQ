@@ -50,18 +50,20 @@
 
 <h4 align="left">Modelo Relacional</h4>
 O modelo relacional representa o modelo lógico em tabelas, colunas e chaves estrangeiras. Foi utilizado para definir como os dados serão organizados e inter-relacionados dentro do banco de dados. Esta etapa é essencial para garantir a integridade e consistência dos dados ao longo do tempo.
+
 <br>
 <div align="center">
-  <img height="200" src=>
+  <img height="200" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/c770c1ba-7a30-4bab-ab82-85c01663ba0d"/>
 </div>
 <br>
 <h4 align="left">Modelo Lógico</h4>
  Este descreve a estrutura dos dados de forma independente no sistema de gerenciamento de banco de dados. Ele apresenta entidades, atributos e relacionamentos entre os dados de uma forma compreensível para os desenvolvedores do projeto. 
+ 
 <br>
 <div align="center">
   <img height= "350" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/759dbba3-eb1e-4c4a-bb34-b44101ce80d9"/>
 </div>
-<br>
+</br>
 
 <h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
 
