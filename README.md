@@ -59,7 +59,7 @@ O modelo relacional representa o modelo lógico em tabelas, colunas e chaves est
  Este descreve a estrutura dos dados de forma independente no sistema de gerenciamento de banco de dados. Ele apresenta entidades, atributos e relacionamentos entre os dados de uma forma compreensível para os desenvolvedores do projeto. 
 <br>
 <div align="center">
-  <img height="200" src=![image](https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/98c9f38e-02c8-48ac-847e-6be3d35cce3e)>
+  <img height="200" src=(https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/98c9f38e-02c8-48ac-847e-6be3d35cce3e)>
 </div>
 <br>
 
