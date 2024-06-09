@@ -42,11 +42,12 @@
 🌐(https://www.sbq.org.br/)  
 
 <h3 align="left">🖇️ Acesso ao site</h3>
+<p>Para acessar nosso site, basta copiar e colar o seguinte URL na barra de endereços do seu navegador: 🌐(https://www.sbq.eeepmanoelmano.com.br/). Pressione Enter e você será direcionado à tela inicial.</p>
 
-<h3 align="left">:📋 Manual do Usuário</h3>
+<h3 align="left">📋 Manual do Usuário</h3>
 
 <h3 align="left">🎲 Criação do Banco de Dados</h3>
-   Ao iniciar o processo de desenvolvimento do banco de dados para nosso site, foi necessária a criação do modelo lógico de relacional. Esses modelos servem como esquemas conceituais que representam a estrutura e as relações entre os diferentes dados que serão armazenados.
+<p>Ao iniciar o processo de desenvolvimento do banco de dados para nosso site, foi necessária a criação do modelo lógico de relacional. Esses modelos servem como esquemas conceituais que representam a estrutura e as relações entre os diferentes dados que serão armazenados.</p>
 
 <h4 align="left">Modelo Relacional</h4>
 O modelo relacional representa o modelo lógico em tabelas, colunas e chaves estrangeiras. Foi utilizado para definir como os dados serão organizados e inter-relacionados dentro do banco de dados. Esta etapa é essencial para garantir a integridade e consistência dos dados ao longo do tempo.
@@ -56,6 +57,7 @@ O modelo relacional representa o modelo lógico em tabelas, colunas e chaves est
   <img height="350" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/c770c1ba-7a30-4bab-ab82-85c01663ba0d"/>
 </div>
 <br>
+
 <h4 align="left">Modelo Lógico</h4>
  Este descreve a estrutura dos dados de forma independente no sistema de gerenciamento de banco de dados. Ele apresenta entidades, atributos e relacionamentos entre os dados de uma forma compreensível para os desenvolvedores do projeto. 
  
@@ -64,9 +66,11 @@ O modelo relacional representa o modelo lógico em tabelas, colunas e chaves est
   <img height= "350" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/759dbba3-eb1e-4c4a-bb34-b44101ce80d9"/>
 </div>
 </br>
-
+<p>Após a definição dos modelos lógico e relacional para o banco de dados, iniciou-se o desenvolvimento no SQL(Structured Query Language), uma linguagem padrão usada para gerenciar bancos de dados relacionais. 
+  Utilizamos o SQL para criar as tabelas, definir os relacionamentos entre elas e realizar consultas para acessar e manipular os dados armazenados. Abaixo, encontra-se um trecho de código SQL que representa parte do nosso esquema de banco de dados, mais especificamente sobre cadastro de laboratórios.</p>
+  
 <h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
-
+<p></p>
 <h3 align="left">🤝 Suporte </h3>
 <p> Está com dúvdas? Tem sugestões? Nossa equipe está disponível para colaborar através de um suporte dedicado via e-mail, respondendo prontamente às consultas e fornecendo assistência personalizada ao usuário.</p>
 
