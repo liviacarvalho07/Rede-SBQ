@@ -53,7 +53,7 @@ O modelo relacional representa o modelo lógico em tabelas, colunas e chaves est
 
 <br>
 <div align="center">
-  <img height="200" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/c770c1ba-7a30-4bab-ab82-85c01663ba0d"/>
+  <img height="350" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/c770c1ba-7a30-4bab-ab82-85c01663ba0d"/>
 </div>
 <br>
 <h4 align="left">Modelo Lógico</h4>
@@ -61,7 +61,7 @@ O modelo relacional representa o modelo lógico em tabelas, colunas e chaves est
  
 <br>
 <div align="center">
-  <img height= "300" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/759dbba3-eb1e-4c4a-bb34-b44101ce80d9"/>
+  <img height= "350" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/759dbba3-eb1e-4c4a-bb34-b44101ce80d9"/>
 </div>
 </br>
 
