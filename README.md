@@ -52,11 +52,15 @@
  Este descreve a estrutura dos dados de forma independente no sistema de gerenciamento de banco de dados. Ele apresenta entidades, atributos e relacionamentos entre os dados de uma forma compreensível para os desenvolvedores e stakeholders do projeto. 
 <br>
 <div align="center">
-  <img height="200" src=\Users\User\Downloads\Modelo Lógico_SQL_ATUALIZADO.png />
+  <img height="200" src=/>
 </div>
-
+<br>
 Modelos Relacionais
 Os modelos relacionais são uma representação dos modelos lógicos em termos de tabelas, colunas e chaves estrangeiras. Eles definem como os dados serão organizados e inter-relacionados dentro do banco de dados relacional. Esta etapa é essencial para garantir a integridade e consistência dos dados ao longo do tempo.
+<br>
+<div align="center">
+  <img height="200" src=/>
+</div>
 <h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
 
 <h3 align="left">🤝 Suporte </h3>
