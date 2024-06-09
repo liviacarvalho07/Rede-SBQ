@@ -84,6 +84,8 @@ nome_coordenador varchar(255) not null,
 universidade varchar(300) not null
 );
 ```
+<h3 align="left">✨ Criação do design</h3>
+<p></p>
 <h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
 <p></p>
 <h3 align="left">🤝 Suporte </h3>
