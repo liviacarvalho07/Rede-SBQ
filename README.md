@@ -56,7 +56,6 @@ Certifique-se de consultar regularmente para obter as informações mais recente
 
 <h4 align="left">Modelo Relacional</h4>
 O modelo relacional representa o modelo lógico em tabelas, colunas e chaves estrangeiras. Foi utilizado para definir como os dados serão organizados e inter-relacionados dentro do banco de dados. Esta etapa é essencial para garantir a integridade e consistência dos dados ao longo do tempo.
-
 <br>
 <div align="center">
   <img height="350" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/c770c1ba-7a30-4bab-ab82-85c01663ba0d"/>
@@ -65,12 +64,12 @@ O modelo relacional representa o modelo lógico em tabelas, colunas e chaves est
 
 <h4 align="left">Modelo Lógico</h4>
  Este descreve a estrutura dos dados de forma independente no sistema de gerenciamento de banco de dados. Ele apresenta entidades, atributos e relacionamentos entre os dados de uma forma compreensível para os desenvolvedores do projeto. 
- 
 <br>
 <div align="center">
   <img height= "350" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/759dbba3-eb1e-4c4a-bb34-b44101ce80d9"/>
 </div>
 </br>
+
 <p>Após a definição dos modelos lógico e relacional para o banco de dados, iniciou-se o desenvolvimento no SQL(Structured Query Language), uma linguagem padrão usada para gerenciar bancos de dados relacionais. 
   Utilizamos o SQL para criar as tabelas, definir os relacionamentos entre elas e realizar consultas para acessar e manipular os dados armazenados. Abaixo, encontra-se um trecho de código SQL que representa parte do nosso esquema de banco de dados, mais especificamente sobre cadastro de laboratórios.</p>
   
