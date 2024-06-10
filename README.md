@@ -85,7 +85,14 @@ universidade varchar(300) not null
 );
 ```
 <h3 align="left">✨ Criação do design</h3>
-<p></p>
+<p>Cada elemento visual deste site, desde a escolha de cores até os layouts, foi cuidadosamente selecionado e adaptado para manter a identidade da referência. Utilizamos a plataforma de design colaborativo Figma para esboçar e salvar as ideias, que tornou possível maior agilidade neste processo, já que a plataforma permite criar, colaborar e compartilhar designs de interfaces de usuário com muita fluidez. O design criado no Figma serviu como base para o trabalho da equipe de desenvolvimento front-end e back-end. Cada tela e componente foi implementado do zero, garantindo não apenas uma aparência visual atraente, mas também uma experiência de usuário fluida e intuitiva. A seguir, está um esboço do início destas atividades.
+</p>
+<br>
+<div align="center">
+  <img height= "350" width="700" src="https://github.com/liviacarvalho07/Rede-SBQ/assets/111568402/9c910eb4-3826-4152-af86-c56085faece8"/>
+</div>
+</br>
+
 <h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
 <p></p>
 <h3 align="left">🤝 Suporte </h3>
