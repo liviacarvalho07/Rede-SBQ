@@ -93,7 +93,18 @@ universidade varchar(300) not null
 </br>
 
 <h3 align="left">💻 Executando o Projeto em um Servidor Local </h3>
-<p></p>
+<p>Para executar este projeto em seu próprio ambiente de desenvolvimento, siga estas seguintes etapas:
+  **1.Clonar o Repositório:** Primeiro, copie o projeto hospedado neste repositório. O comando "git clone" pode ser usado para fazer isso.
+´´´
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+´´´ 
+**2.Configuração do Ambiente:** Antes de iniciar o servidor, é importante verificar se todas as configurações foram feitas corretamente, o que pode incluir arquivos de configuração específicos do projeto, etc.
+
+**Inicie o Servidor Local:** Após a conclusão das etapas anteriores, a instalação das dependências e configurações, se necessária, o servidor poderá ser iniciado.
+
+**3.Acesso à Aplicação:** Após iniciar o servidor, a aplicação estará disponível em seu navegador padrão. Basta acessar o seguinte URL: ...
+</p>
+
 <h3 align="left">🤝 Suporte </h3>
 <p> Está com dúvdas? Tem sugestões? Nossa equipe está disponível para colaborar através de um suporte dedicado via e-mail, respondendo prontamente às consultas e fornecendo assistência personalizada ao usuário.</p>
 
