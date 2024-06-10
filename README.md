@@ -41,15 +41,20 @@
 
 🌐(https://www.sbq.org.br/)  
 
-<h3 align="left">🖇️ Acesso ao site</h3>
-<p>Para acessar nosso site, basta copiar e colar o seguinte URL na barra de endereços do seu navegador: 🌐(https://www.sbq.eeepmanoelmano.com.br/). Pressione Enter e você será direcionado à tela inicial.</p>
-
 <h3 align="left">📋 Manual do Usuário</h3>
 <p>Apresentamos, primeiramente, o manual do usuário, criado para fornecer instruções detalhadas sobre como utilizar todas as funcionalidades disponíveis em nosso site. Este é o primeiro manual de utilização desde a criação do site, e estamos empolgados em compartilhar todas as informações necessárias para que o usuário aproveite ao máximo a sua experiência no site.
 
 Para acessar o manual completo, clique aqui.
 
 Certifique-se de consultar regularmente para obter as informações mais recentes e relevantes sobre como utilizar nosso site de forma eficaz.</p>
+<h3 align="left">Gestão de Atividades e Reuniões</h3>
+
+Para registrar nossas atividades de desenvolvimento, marcar reuniões e definir as tarefas a serem iniciadas, em andamento etc, utilizamos a plataforma Notion. O Notion nos proporciona uma maneira organizada e colaborativa de gerenciar nosso fluxo de trabalho e manter todos os membros da equipe atualizados sobre o progresso do projeto.
+
+Para visualizar o andamento do desenvolvimento deste projeto, clique aqui.
+
+<h3 align="left">🖇️ Acesso ao site</h3>
+<p>Para acessar nosso site, basta copiar e colar o seguinte URL na barra de endereços do seu navegador: 🌐(https://www.sbq.eeepmanoelmano.com.br/). Pressione Enter e você será direcionado à tela inicial.</p>
 
 <h3 align="left">🎲 Criação do Banco de Dados</h3>
 <p>Ao iniciar o processo de desenvolvimento do banco de dados para nosso site, foi necessária a criação do modelo lógico de relacional. Esses modelos servem como esquemas conceituais que representam a estrutura e as relações entre os diferentes dados que serão armazenados.</p>
