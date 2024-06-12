@@ -1,0 +1,94 @@
+[10-Jun-2024 13:43:22 America/Fortaleza] PHP Warning:  include(../dependencies/protect.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 13:43:22 America/Fortaleza] PHP Warning:  include(): Failed opening '../dependencies/protect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 13:43:22 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 13:43:22 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:47:12 America/Fortaleza] PHP Warning:  include(../dependencies/protect.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:47:12 America/Fortaleza] PHP Warning:  include(): Failed opening '../dependencies/protect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:47:12 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:47:12 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:47:34 America/Fortaleza] PHP Warning:  include(../dependencies/protect.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:47:34 America/Fortaleza] PHP Warning:  include(): Failed opening '../dependencies/protect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:47:34 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:47:34 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:48:43 America/Fortaleza] PHP Warning:  include(../dependencies/protect.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:48:43 America/Fortaleza] PHP Warning:  include(): Failed opening '../dependencies/protect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:48:43 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:48:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:48:54 America/Fortaleza] PHP Warning:  include(../dependencies/protect.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:48:54 America/Fortaleza] PHP Warning:  include(): Failed opening '../dependencies/protect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:48:54 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:48:54 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:48:57 America/Fortaleza] PHP Warning:  include(../dependencies/protect.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:48:57 America/Fortaleza] PHP Warning:  include(): Failed opening '../dependencies/protect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:48:57 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:48:57 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:50:39 America/Fortaleza] PHP Warning:  include(../dependencies/protect.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:50:39 America/Fortaleza] PHP Warning:  include(): Failed opening '../dependencies/protect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:50:39 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:50:39 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:50:48 America/Fortaleza] PHP Warning:  include(../dependencies/protect.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:50:48 America/Fortaleza] PHP Warning:  include(): Failed opening '../dependencies/protect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 1
+[10-Jun-2024 14:50:48 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[10-Jun-2024 14:50:48 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/navbar_index_itens.php on line 26
+[11-Jun-2024 21:11:17 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 4
+[11-Jun-2024 21:11:17 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 4
+[11-Jun-2024 21:11:17 America/Fortaleza] PHP Warning:  Undefined variable $servername in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:17 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:17 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:17 America/Fortaleza] PHP Warning:  Undefined variable $dbname in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:17 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php:7
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php(7): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:24 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 4
+[11-Jun-2024 21:11:24 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 4
+[11-Jun-2024 21:11:24 America/Fortaleza] PHP Warning:  Undefined variable $servername in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:24 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:24 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:24 America/Fortaleza] PHP Warning:  Undefined variable $dbname in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:11:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php:7
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php(7): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:13:13 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 4
+[11-Jun-2024 21:13:13 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 4
+[11-Jun-2024 21:13:13 America/Fortaleza] PHP Warning:  Undefined variable $servername in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:13:13 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:13:13 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:13:13 America/Fortaleza] PHP Warning:  Undefined variable $dbname in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:13:13 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php:7
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php(7): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:14:53 America/Fortaleza] PHP Warning:  Undefined variable $servername in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:14:53 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:14:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php:7
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php(7): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), 'eeepma26_rede_s...')
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:14:55 America/Fortaleza] PHP Warning:  Undefined variable $servername in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:14:55 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:14:55 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php:7
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php(7): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), 'eeepma26_rede_s...')
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 7
+[11-Jun-2024 21:22:37 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, PDO given in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php:35
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php(35): mysqli_query(Object(PDO), 'SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 35
+[11-Jun-2024 21:22:41 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, PDO given in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php:35
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php(35): mysqli_query(Object(PDO), 'SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 35
+[11-Jun-2024 21:22:44 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, PDO given in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php:35
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php(35): mysqli_query(Object(PDO), 'SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/itens_navbar_funcional_index/tela_inicial_funcional.php on line 35
