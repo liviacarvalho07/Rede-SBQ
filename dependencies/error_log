@@ -1,0 +1,397 @@
+[10-Jun-2024 12:17:29 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 29
+[10-Jun-2024 12:17:29 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 33
+[10-Jun-2024 12:17:29 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instituicao_formacao' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(46): PDOStatement->execute(Array)
+#1 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(66): cadastro_pessoal()
+#2 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 46
+[10-Jun-2024 12:41:00 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 27
+[10-Jun-2024 12:41:00 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 28
+[10-Jun-2024 12:47:39 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 27
+[10-Jun-2024 12:47:39 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 28
+[10-Jun-2024 12:50:21 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 26
+[10-Jun-2024 12:50:21 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 27
+[10-Jun-2024 12:56:48 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 26
+[10-Jun-2024 12:56:48 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 27
+[10-Jun-2024 12:58:42 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 26
+[10-Jun-2024 12:58:42 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 27
+[10-Jun-2024 13:06:07 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 26
+[10-Jun-2024 13:06:07 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 27
+[10-Jun-2024 13:07:38 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:07:38 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:09:47 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:09:47 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:11:07 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:11:07 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:22:27 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 29
+[10-Jun-2024 13:22:27 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 33
+[10-Jun-2024 13:22:27 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instituicao_formacao' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(46): PDOStatement->execute(Array)
+#1 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(66): cadastro_pessoal()
+#2 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 46
+[10-Jun-2024 13:28:34 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 29
+[10-Jun-2024 13:28:34 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 33
+[10-Jun-2024 13:28:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instituicao_formacao' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(46): PDOStatement->execute(Array)
+#1 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(66): cadastro_pessoal()
+#2 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 46
+[10-Jun-2024 13:31:17 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 29
+[10-Jun-2024 13:31:17 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 33
+[10-Jun-2024 13:31:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instituicao_formacao' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(46): PDOStatement->execute(Array)
+#1 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(66): cadastro_pessoal()
+#2 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 46
+[10-Jun-2024 13:37:16 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 29
+[10-Jun-2024 13:37:16 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 33
+[10-Jun-2024 13:37:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instituicao_formacao' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(46): PDOStatement->execute(Array)
+#1 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(66): cadastro_pessoal()
+#2 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 46
+[10-Jun-2024 13:37:49 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:37:49 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:38:33 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:38:33 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:39:46 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:39:46 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:47:19 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:47:19 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:49:48 America/Fortaleza] PHP Parse error:  syntax error, unexpected double-quoted string "Location: /itens_navbar_pessoa..." in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 38
+[10-Jun-2024 13:49:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected double-quoted string "Location: /itens_navbar_pessoa..." in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 38
+[10-Jun-2024 13:50:33 America/Fortaleza] PHP Parse error:  syntax error, unexpected double-quoted string "Location: /itens_navbar_pessoa..." in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 38
+[10-Jun-2024 13:51:18 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:51:18 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:53:06 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:53:06 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:54:25 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:54:25 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:55:57 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:55:57 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 13:57:53 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 13:57:53 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 14:01:27 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 14:01:27 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 14:40:39 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 14:40:39 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 14:41:30 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 14:41:30 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 15:23:02 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 15:23:02 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 15:36:48 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 15:36:48 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 15:44:36 America/Fortaleza] PHP Warning:  Undefined array key "usuario_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 24
+[10-Jun-2024 15:44:36 America/Fortaleza] PHP Warning:  Undefined array key "senha_acesso" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 25
+[10-Jun-2024 15:47:52 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 29
+[10-Jun-2024 15:47:52 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 33
+[10-Jun-2024 15:47:52 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instituicao_formacao' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(46): PDOStatement->execute(Array)
+#1 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php(66): cadastro_pessoal()
+#2 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 46
+[10-Jun-2024 16:10:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 15
+[10-Jun-2024 16:30:12 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 30
+[10-Jun-2024 16:30:12 America/Fortaleza] PHP Warning:  Undefined array key "instituicao-atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 34
+[10-Jun-2024 16:30:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:20) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 50
+[10-Jun-2024 16:31:35 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 36
+[10-Jun-2024 16:31:35 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 37
+[10-Jun-2024 16:31:35 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(46): PDOStatement->execute(Array)
+#1 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(66): cadastro_funcional()
+#2 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 46
+[10-Jun-2024 16:33:35 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 36
+[10-Jun-2024 16:33:35 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 37
+[10-Jun-2024 16:33:35 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(46): PDOStatement->execute(Array)
+#1 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(66): cadastro_funcional()
+#2 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 46
+[10-Jun-2024 21:14:47 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:1) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 49
+[10-Jun-2024 21:28:20 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 14
+[10-Jun-2024 21:28:24 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 14
+[10-Jun-2024 21:28:57 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 14
+[10-Jun-2024 21:36:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[10-Jun-2024 21:36:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[10-Jun-2024 21:36:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 07:38:09 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:1) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 49
+[11-Jun-2024 07:45:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 07:45:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 07:46:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 08:02:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 08:02:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 08:19:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 08:19:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 08:20:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 08:36:19 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:1) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 47
+[11-Jun-2024 08:50:05 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eeepma26_rede_sbq.users' doesn't exist in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 09:16:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 09:26:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 15
+[11-Jun-2024 09:28:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 16
+[11-Jun-2024 09:29:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_FOLOOWLOCATION" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 17
+[11-Jun-2024 10:55:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:1) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 47
+[11-Jun-2024 11:15:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php:1) in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_cadastro.php on line 46
+[11-Jun-2024 11:57:25 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 38
+[11-Jun-2024 11:58:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 38
+[11-Jun-2024 12:28:41 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 38
+[11-Jun-2024 12:36:55 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 38
+[11-Jun-2024 12:38:46 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userpessoal_verificacao.php on line 38
+[11-Jun-2024 19:00:14 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:00:14 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 31
+[11-Jun-2024 19:00:14 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:40
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(40): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 40
+[11-Jun-2024 19:00:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function cadastro_funcional() in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:56
+Stack trace:
+#0 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 56
+[11-Jun-2024 19:00:42 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:00:42 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 31
+[11-Jun-2024 19:00:42 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:40
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(40): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 40
+[11-Jun-2024 19:03:02 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 34
+[11-Jun-2024 19:03:02 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 35
+[11-Jun-2024 19:03:02 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:45
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 45
+[11-Jun-2024 19:04:42 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 34
+[11-Jun-2024 19:04:42 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 35
+[11-Jun-2024 19:04:42 America/Fortaleza] PHP Warning:  Undefined variable $senha_hash in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:04:42 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'senha' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:06:17 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 34
+[11-Jun-2024 19:06:17 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 35
+[11-Jun-2024 19:06:17 America/Fortaleza] PHP Warning:  Undefined variable $senha_hash in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:06:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'senha' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:12:34 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 34
+[11-Jun-2024 19:12:34 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 35
+[11-Jun-2024 19:12:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:12:43 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 34
+[11-Jun-2024 19:12:43 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 35
+[11-Jun-2024 19:12:43 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:12:49 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 34
+[11-Jun-2024 19:12:49 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 35
+[11-Jun-2024 19:12:49 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:20:31 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 28
+[11-Jun-2024 19:20:31 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 29
+[11-Jun-2024 19:20:31 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:43
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 43
+[11-Jun-2024 19:20:45 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 28
+[11-Jun-2024 19:20:45 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 29
+[11-Jun-2024 19:20:45 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:43
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 43
+[11-Jun-2024 19:21:46 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 28
+[11-Jun-2024 19:21:46 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 29
+[11-Jun-2024 19:21:46 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:43
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 43
+[11-Jun-2024 19:23:49 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:23:49 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 31
+[11-Jun-2024 19:23:49 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:36
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(36): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 36
+[11-Jun-2024 19:27:04 America/Fortaleza] PHP Warning:  Undefined array key "instituicao_titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 4
+[11-Jun-2024 19:27:04 America/Fortaleza] PHP Warning:  Undefined array key "ano_conclusao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 4
+[11-Jun-2024 19:27:04 America/Fortaleza] PHP Warning:  Undefined array key "estado" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 4
+[11-Jun-2024 19:27:04 America/Fortaleza] PHP Warning:  Undefined array key "cidade" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 4
+[11-Jun-2024 19:27:04 America/Fortaleza] PHP Warning:  Undefined array key "instituicao_atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 4
+[11-Jun-2024 19:27:04 America/Fortaleza] PHP Warning:  Undefined array key "nivel_escolaridade" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 4
+[11-Jun-2024 19:27:04 America/Fortaleza] PHP Warning:  Undefined array key "funcao_cargo" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 4
+[11-Jun-2024 19:27:04 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instituicao_formacao' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:4
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(4): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 4
+[11-Jun-2024 19:31:37 America/Fortaleza] PHP Warning:  Undefined array key "instituicao_titulacao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 26
+[11-Jun-2024 19:31:37 America/Fortaleza] PHP Warning:  Undefined array key "ano_conclusao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 27
+[11-Jun-2024 19:31:37 America/Fortaleza] PHP Warning:  Undefined array key "estado" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 28
+[11-Jun-2024 19:31:37 America/Fortaleza] PHP Warning:  Undefined array key "cidade" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 29
+[11-Jun-2024 19:31:37 America/Fortaleza] PHP Warning:  Undefined array key "instituicao_atual" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:31:37 America/Fortaleza] PHP Warning:  Undefined array key "nivel_escolaridade" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 31
+[11-Jun-2024 19:31:37 America/Fortaleza] PHP Warning:  Undefined array key "funcao_cargo" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 32
+[11-Jun-2024 19:31:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instituicao_formacao' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:48
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 48
+[11-Jun-2024 19:33:36 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:33:36 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 31
+[11-Jun-2024 19:33:36 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:39
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 39
+[11-Jun-2024 19:35:21 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:35:21 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 31
+[11-Jun-2024 19:35:21 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nome_pessoal' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:47
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 47
+[11-Jun-2024 19:39:03 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:39:03 America/Fortaleza] PHP Warning:  Undefined array key "instituicao" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 31
+[11-Jun-2024 19:39:03 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:46
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 46
+[11-Jun-2024 19:54:09 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:54:09 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:56:34 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:56:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:58:08 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:58:08 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 19:59:58 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 19:59:58 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:43
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 43
+[11-Jun-2024 20:00:58 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 20:00:58 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:44
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(44): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 44
+[11-Jun-2024 20:02:39 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 20:02:39 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:54
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(54): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 54
+[11-Jun-2024 20:04:35 America/Fortaleza] PHP Warning:  Undefined array key "informacoes_laboratorio" in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 30
+[11-Jun-2024 20:04:35 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'informacoes_laboratorio' cannot be null in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php:54
+Stack trace:
+#0 /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php(54): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_cadastro.php on line 54
+[11-Jun-2024 20:49:50 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[11-Jun-2024 20:49:50 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[11-Jun-2024 20:50:38 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[11-Jun-2024 20:50:38 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[11-Jun-2024 22:21:21 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[11-Jun-2024 22:21:21 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[12-Jun-2024 07:38:26 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[12-Jun-2024 07:38:26 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[12-Jun-2024 08:07:31 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[12-Jun-2024 08:07:31 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[12-Jun-2024 08:14:42 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[12-Jun-2024 08:14:42 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 26
+[12-Jun-2024 08:18:58 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 25
+[12-Jun-2024 08:18:58 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 25
+[12-Jun-2024 08:20:21 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 25
+[12-Jun-2024 08:20:21 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 25
+[12-Jun-2024 08:21:31 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 25
+[12-Jun-2024 08:21:31 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 25
+[12-Jun-2024 08:33:26 America/Fortaleza] PHP Warning:  include(../includes_padroes/config.php): Failed to open stream: No such file or directory in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 25
+[12-Jun-2024 08:33:26 America/Fortaleza] PHP Warning:  include(): Failed opening '../includes_padroes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/eeepma26/sbq.eeepmanoelmano.com.br/dependencies/userfuncional_verificacao.php on line 25
